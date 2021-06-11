@@ -11,9 +11,12 @@
 ![Arm](https://github.com/kmcgrat28/EVE/blob/main/rTkve%25CJSlaRW6k8Ho3jEg_thumb_345.jpg)
 ## Head and face
 ![Head](https://github.com/kmcgrat28/EVE/blob/main/BUcDRua2Q1W4uoZmbqgldw_thumb_349.jpg)
-
+## Socket
+![socket](https://github.com/kmcgrat28/EVE/blob/main/cO1pEhYKQh2uPf6lmF603A_thumb_34a.jpg)
 ## cutting and printing
+### The shelf that went inside and the top of the body
 ![Shelf and head](https://github.com/kmcgrat28/EVE/blob/main/lgymQ87bRLGu8CqjQrR8RA_thumb_346.jpg)
+### Her face
 ![face](https://github.com/kmcgrat28/EVE/blob/main/tZJAEFj8S8a7OGyK5AI1NA_thumb_342.jpg)
 
 
