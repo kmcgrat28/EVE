@@ -29,9 +29,9 @@
 ## The final product
 ### TA DA
 
-![Body](https://github.com/kmcgrat28/EVE/blob/main/IMG_6414.HEIC)
-![body1](https://github.com/kmcgrat28/EVE/blob/main/IMG_6411.HEIC)
-![body2](https://github.com/kmcgrat28/EVE/blob/main/IMG_6416.HEIC)
+![Full body](https://github.com/kmcgrat28/EVE/blob/main/IMG_6414.HEIC)
+![Positioned body](https://github.com/kmcgrat28/EVE/blob/main/IMG_6411.HEIC)
+![Eve and Wall-E](https://github.com/kmcgrat28/EVE/blob/main/IMG_6416.HEIC)
 
 ## Code 
 
