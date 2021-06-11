@@ -26,6 +26,11 @@
 ### Her face
 ![face](https://github.com/kmcgrat28/EVE/blob/main/tZJAEFj8S8a7OGyK5AI1NA_thumb_342.jpg)
 
+## The final product
+### TA DA
+![FINAL](https://github.com/kmcgrat28/EVE/blob/main/IMG_6414.HEIC)
+![FINAL!](https://github.com/kmcgrat28/EVE/blob/main/IMG_6411.HEIC)
+![FINAL 2](https://github.com/kmcgrat28/EVE/blob/main/IMG_6416.HEIC)
 
 ## Code 
 
