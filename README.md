@@ -33,7 +33,7 @@ This is actually 3 parts: the acrylic face, the head (which was split into 2 for
 ### Face
 ![face](https://github.com/kmcgrat28/EVE/blob/main/tZJAEFj8S8a7OGyK5AI1NA_thumb_342.jpg)
 
-## The final product
+## The Final Product
 ### TA DA
 
 ![Full body](https://github.com/kmcgrat28/EVE/blob/main/IMG_6414.HEIC)
