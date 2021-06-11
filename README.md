@@ -5,6 +5,18 @@
 ## Onshape body progress
 ### Door and hinge
 ![Door and hinge](https://github.com/kmcgrat28/EVE/blob/main/wvZUDUWySIyACJK7R3p8%2Bw_thumb_341.jpg)
+### Arms
+![Arm](https://github.com/kmcgrat28/EVE/blob/main/88CrdjepRTi1F3ZZwTls8g_thumb_343.jpg)
+![arm](https://github.com/kmcgrat28/EVE/blob/main/%2BkYjsVHiSj%2Ba3jiNJpEmWg_thumb_344.jpg)
+![Arm](https://github.com/kmcgrat28/EVE/blob/main/rTkve%25CJSlaRW6k8Ho3jEg_thumb_345.jpg)
+## Head and face
+![Head](https://github.com/kmcgrat28/EVE/blob/main/BUcDRua2Q1W4uoZmbqgldw_thumb_349.jpg)
+
+## cutting and printing
+![Shelf and head](https://github.com/kmcgrat28/EVE/blob/main/lgymQ87bRLGu8CqjQrR8RA_thumb_346.jpg)
+![face](https://github.com/kmcgrat28/EVE/blob/main/tZJAEFj8S8a7OGyK5AI1NA_thumb_342.jpg)
+
+
 ## Code 
 
 Eve's code wasn't too hard, but it was a bit confusing to try to work with the lights. However, Dr. Shields gave us this really [great spreadsheet](https://docs.google.com/spreadsheets/d/1iTayUid6laWyjTvUFK-ij3jIovaHw36wR05HZaynm34/edit#gid=858300470) that he made, which allowed us to test out the shapes we wanted to make on the pi without changing and running the code every time. It gave us the code in the sheet as well, so we didn't have to painstakingly copy each line over. We had to update the pi and add some libraries, but the [resources](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi) for that were really helpful as well. We wanted to add a sensor and incorporate a few of her expressions rather than simply have her blink. I was playing around with the sensor and ultimately decided that she'd be happy when you were within a certain distance, mad if you were a little further back, and blinking if you were further away. Here are some pictures!
