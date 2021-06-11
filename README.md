@@ -3,17 +3,24 @@
 ### Engineering 4 project by Katherine McGrath and Kaymin Hester
 ### We got the inspiration to make Eve last year when we were looking through old projects and we saw a Wall-e robot, so we decided to make it a pair.
 ## Onshape body progress
+### Overall I would say this design wasn't particularly hard, but it was tedious. Because I designed it in Solidworks last year, I had already made the design decisions, saving me some time this year. The hard part was learning how to use Onshape.
 ### Door and hinge
 ![Door and hinge](https://github.com/kmcgrat28/EVE/blob/main/wvZUDUWySIyACJK7R3p8%2Bw_thumb_341.jpg)
 ### Arms
+### This part was probably the most time-consuming and consisted of the most trial and error to get the shape right. I tried lofts, eclipses, cutting away and rectangles and spheres, adding fillets, and so much more. Ultimately I went with a mixture, I drew an eclipse and extruded it, then added a spline to create the exact curve I wanted. Then just an extrude-remove to get rid of the excess. Lastly, I added a small hole to attach to the socket.
 ![Arm](https://github.com/kmcgrat28/EVE/blob/main/88CrdjepRTi1F3ZZwTls8g_thumb_343.jpg)
 ![arm](https://github.com/kmcgrat28/EVE/blob/main/%2BkYjsVHiSj%2Ba3jiNJpEmWg_thumb_344.jpg)
 ![Arm](https://github.com/kmcgrat28/EVE/blob/main/rTkve%25CJSlaRW6k8Ho3jEg_thumb_345.jpg)
+
 ## Head and face
+### This is actually 3 parts, the acrylic face, the head (which was split into 2 for printing), and the neck. 
 ![Head](https://github.com/kmcgrat28/EVE/blob/main/BUcDRua2Q1W4uoZmbqgldw_thumb_349.jpg)
+
 ## Socket
 ![socket](https://github.com/kmcgrat28/EVE/blob/main/cO1pEhYKQh2uPf6lmF603A_thumb_34a.jpg)
-## cutting and printing
+
+## cutting and printing drawings
+
 ### The shelf that went inside and the top of the body
 ![Shelf and head](https://github.com/kmcgrat28/EVE/blob/main/lgymQ87bRLGu8CqjQrR8RA_thumb_346.jpg)
 ### Her face
